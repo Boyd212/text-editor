@@ -1,10 +1,17 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
 # Description
+  A single-page text or snippet entry manager that is capable of being used offline and should behave as a native application on multiple devices and with multiple browsers.
 
 # Install and run
+  Clone the repository. In a terminal run "npm install" on the Develop folder. This may take a few minutes, or may require an update to Node version 16.15.0.
+
+  Use command "npm run start," to initialize the application.
+
+  You can install the application on your local drive for use offline by clicking the "Install" button at the top-left of the UI.
 
 # Motivation
+  Development of a full-stack application that can be used offline and functions like a native application on any device.
 
 # Links
   GitHub Repo: https://github.com/Boyd212/text-editor
