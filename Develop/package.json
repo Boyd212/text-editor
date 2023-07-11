@@ -1,5 +1,5 @@
 {
-  "name": "JATE",
+  "name": "jate",
   "version": "1.0.0",
   "description": "Single-page app that works online or offline",
   "main": "./server/server.js",
