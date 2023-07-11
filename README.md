@@ -1,5 +1,18 @@
 # 19 Progressive Web Applications (PWA): Text Editor
 
+# Description
+
+# Install and run
+
+# Motivation
+
+# Links
+  GitHub Repo: https://github.com/Boyd212/text-editor
+  Heroku Deploy: 
+  Walkthrough Video: 
+
+
+====================================================
 ## Your Task
 
 As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
