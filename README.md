@@ -15,8 +15,8 @@
 
 # Links
   GitHub Repo: https://github.com/Boyd212/text-editor
-  Heroku Deploy: 
-  Walkthrough Video: 
+  Heroku Deploy: [[Can not deploy without payment info]](Create-New-App-Heroku.png)
+  Walkthrough Video: https://drive.google.com/file/d/1gMW_IxJBvwxmoJ-8eaEOu1jOesOqwEKz/view
 
 
 ====================================================
